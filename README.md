@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pedrosilvaps
+- 👀 I’m interested in  programação na área de Front-end 
+- 🌱 I’m currently learning HTML e CSS 
+- 💞️ I’m looking to collaborate com diversas áreas em TI mas principlamente programação
+- 📫 How to reach me Meu E-mail: pedropaulocardoso8@gmail.com ou pelo meu numero de celular: 31996188676
